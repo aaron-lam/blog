@@ -3,10 +3,12 @@
 ---
 
 202401152203
-tags: 
 
-1. Brain isn't as good at learning as we thought. Thinking consumes lots of energy, so our body tends to use the visual system to complete the task instead of using brain. In our daily lives, most of our tasks are completed with unconsciousness, like driving, brushing teeth, etc.
-2. Curiosity helps students to get interested into the subject and increase desire to learn. However, curiosity only last for a very short time.
+1. Thinking consumes lots of our energy, so our bodies often choose to complete most of the tasks using visual system instead of brain. In our daily lives, many tasks happen with our unconscious mind, like driving or brushing teeth.
+
+2. Curiosity helps students getting interested in learning a subject. However, curiosity tends to fade quickly.
+
+3. Most of us enjoy thinking and solving problems by ourselves. When it comes to engaging students in learning, the key is to ensure the questions and homework are at the right level of difficulty. Students might lose interests in a hard question because the brain realize it's unlikely to solve the question and earn satisfaction.
 
 ---
 # Reference
