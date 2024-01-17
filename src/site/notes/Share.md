@@ -10,5 +10,5 @@ Questions:
 * What are the good ways to share my knowledge?
 
 Related topics:
-[[Communications\|Communications]]
+[[Communication\|Communication]]
 [[Education\|Education]]
