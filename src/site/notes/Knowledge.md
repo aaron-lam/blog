@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/"}
+{"dg-publish":true,"dg-permalink":"knowledge","permalink":"/knowledge/"}
 ---
 
 # Knowledge
