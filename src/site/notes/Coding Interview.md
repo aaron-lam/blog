@@ -8,3 +8,6 @@ I need to feed my family to provide good living conditions to them. I need to ha
 [[121. Best Time to Buy and Sell Stock\|121. Best Time to Buy and Sell Stock]]
 [[217. Contains Duplicate\|217. Contains Duplicate]]
 [[238. Product of Array Except Self\|238. Product of Array Except Self]]
+[[53. Maximum Subarray\|53. Maximum Subarray]]
+[[152. Maximum Product Subarray\|152. Maximum Product Subarray]]
+[[153. Find Minimum in Rotated Sorted Array\|153. Find Minimum in Rotated Sorted Array]]
