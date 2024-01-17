@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"communication","permalink":"/communication/"}
+{"dg-publish":true,"dg-permalink":"education","permalink":"/education/"}
 ---
 
 # Education
