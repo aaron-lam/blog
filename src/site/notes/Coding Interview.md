@@ -11,3 +11,5 @@ I need to feed my family to provide good living conditions to them. I need to ha
 [[53. Maximum Subarray\|53. Maximum Subarray]]
 [[152. Maximum Product Subarray\|152. Maximum Product Subarray]]
 [[153. Find Minimum in Rotated Sorted Array\|153. Find Minimum in Rotated Sorted Array]]
+[[15. 3Sum\|15. 3Sum]]
+[[11. Container With Most Water\|11. Container With Most Water]]
