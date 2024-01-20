@@ -13,3 +13,6 @@ I need to feed my family to provide good living conditions to them. I need to ha
 [[153. Find Minimum in Rotated Sorted Array\|153. Find Minimum in Rotated Sorted Array]]
 [[15. 3Sum\|15. 3Sum]]
 [[11. Container With Most Water\|11. Container With Most Water]]
+[[371. Sum of Two Integers\|371. Sum of Two Integers]]
+[[191. Number of 1 Bits\|191. Number of 1 Bits]]
+[[338. Counting Bits\|338. Counting Bits]]
