@@ -16,3 +16,6 @@ I need to feed my family to provide good living conditions to them. I need to ha
 [[371. Sum of Two Integers\|371. Sum of Two Integers]]
 [[191. Number of 1 Bits\|191. Number of 1 Bits]]
 [[338. Counting Bits\|338. Counting Bits]]
+[[268. Missing Number\|268. Missing Number]]
+[[190. Reverse Bits\|190. Reverse Bits]]
+[[70. Climbing Stairs\|70. Climbing Stairs]]
