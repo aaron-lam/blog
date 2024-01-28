@@ -19,3 +19,5 @@ I need to feed my family to provide good living conditions to them. I need to ha
 [[268. Missing Number\|268. Missing Number]]
 [[190. Reverse Bits\|190. Reverse Bits]]
 [[70. Climbing Stairs\|70. Climbing Stairs]]
+[[322. Coin Change\|322. Coin Change]]
+[[300. Longest Increasing Subsequence\|300. Longest Increasing Subsequence]]
