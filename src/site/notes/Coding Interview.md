@@ -21,3 +21,6 @@ I need to feed my family to provide good living conditions to them. I need to ha
 [[70. Climbing Stairs\|70. Climbing Stairs]]
 [[322. Coin Change\|322. Coin Change]]
 [[300. Longest Increasing Subsequence\|300. Longest Increasing Subsequence]]
+[[377. Combination Sum IV\|377. Combination Sum IV]]
+[[198. House Robber\|198. House Robber]]
+
