@@ -24,5 +24,5 @@ I need to feed my family to provide good living conditions to them. I need to ha
 [[377. Combination Sum IV\|377. Combination Sum IV]]
 [[198. House Robber\|198. House Robber]]
 [[213. House Robber II\|213. House Robber II]]
-[[Coding Interview\|Coding Interview]]
+[[91. Decode Ways\|91. Decode Ways]]
 
