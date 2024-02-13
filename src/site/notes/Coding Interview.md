@@ -31,3 +31,4 @@ I need to feed my family to provide good living conditions to them. I need to ha
 [[207. Course Schedule\|207. Course Schedule]]
 [[417. Pacific Atlantic Water Flow\|417. Pacific Atlantic Water Flow]]
 [[200. Number of Islands\|200. Number of Islands]]
+[[128. Longest Consecutive Sequence\|128. Longest Consecutive Sequence]]
