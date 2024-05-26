@@ -6,4 +6,4 @@ Questions:
 * What knowledge can I gain to make a better world?
 
 Topics:
-[[Coding Interview\|Coding Interview]]
+[[Leetcode\|Leetcode]]
