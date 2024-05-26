@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"coding-interview","permalink":"/coding-interview/"}
+{"dg-publish":true,"dg-permalink":"leetcode","permalink":"/leetcode/"}
 ---
 
 I need to feed my family to provide good living conditions to them. I need to be good at Leetcode to keep myself competitive in the market.
