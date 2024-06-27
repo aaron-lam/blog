@@ -6,4 +6,5 @@ Questions:
 * What knowledge can I gain to make a better world?
 
 Topics:
+[[Frontend\|Frontend]]
 [[Leetcode\|Leetcode]]
