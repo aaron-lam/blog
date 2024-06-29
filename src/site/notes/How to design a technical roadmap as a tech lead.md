@@ -67,7 +67,7 @@ The book "Are Your Lights On?" explains how we can identify the real problems at
 
 #### Induction
 
-> Identify a problem by finding repeated and common issues across teams.
+Identify a problem by finding repeated and common issues across teams.
 
 AbstractIon: Middleware, platforms to support core infra capabilities (SSO, SMS, etc.)
 
