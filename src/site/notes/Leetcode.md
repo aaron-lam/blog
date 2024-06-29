@@ -19,6 +19,7 @@ I need to feed my family to provide good living conditions to them. I need to be
 [[133. Clone Graph\|133. Clone Graph]]
 [[152. Maximum Product Subarray\|152. Maximum Product Subarray]]
 [[153. Find Minimum in Rotated Sorted Array\|153. Find Minimum in Rotated Sorted Array]]
+[[162. Find Peak Element\|162. Find Peak Element]]
 [[169. Majority Elements\|169. Majority Elements]]
 [[190. Reverse Bits\|190. Reverse Bits]]
 [[191. Number of 1 Bits\|191. Number of 1 Bits]]
