@@ -7,6 +7,7 @@ I need to feed my family to provide good living conditions to them. I need to be
 [[1. Two Sum\|1. Two Sum]]
 [[11. Container With Most Water\|11. Container With Most Water]]
 [[15. 3Sum\|15. 3Sum]]
+[[33. Search in Rotated Sorted Array\|33. Search in Rotated Sorted Array]]
 [[53. Maximum Subarray\|53. Maximum Subarray]]
 [[55. Jump Game\|55. Jump Game]]
 [[56. Merge Intervals\|56. Merge Intervals]]
@@ -37,6 +38,7 @@ I need to feed my family to provide good living conditions to them. I need to be
 [[377. Combination Sum IV\|377. Combination Sum IV]]
 [[417. Pacific Atlantic Water Flow\|417. Pacific Atlantic Water Flow]]
 [[528. Random Pick with Weight\|528. Random Pick with Weight]]
+[[633. Sum of Square Numbers\|633. Sum of Square Numbers]]
 [[791. Custom Sort String\|791. Custom Sort String]]
 [[875. Koko Eating Bananas\|875. Koko Eating Bananas]]
 [[977. Squares of a Sorted Array
