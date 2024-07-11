@@ -5,6 +5,7 @@
 I need to feed my family to provide good living conditions to them. I need to be good at Leetcode to keep myself competitive in the market.
 
 [[1. Two Sum\|1. Two Sum]]
+[[3. Longest Substring Without Repeating Characters\|3. Longest Substring Without Repeating Characters]]
 [[11. Container With Most Water\|11. Container With Most Water]]
 [[15. 3Sum\|15. 3Sum]]
 [[33. Search in Rotated Sorted Array\|33. Search in Rotated Sorted Array]]
