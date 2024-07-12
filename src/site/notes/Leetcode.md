@@ -39,6 +39,7 @@ I need to feed my family to provide good living conditions to them. I need to be
 [[371. Sum of Two Integers\|371. Sum of Two Integers]]
 [[377. Combination Sum IV\|377. Combination Sum IV]]
 [[417. Pacific Atlantic Water Flow\|417. Pacific Atlantic Water Flow]]
+[[424. Longest Repeating Character Replacement\|424. Longest Repeating Character Replacement]]
 [[528. Random Pick with Weight\|528. Random Pick with Weight]]
 [[633. Sum of Square Numbers\|633. Sum of Square Numbers]]
 [[704. Binary Search\|704. Binary Search]]
