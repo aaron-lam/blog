@@ -16,6 +16,7 @@ I need to feed my family to provide good living conditions to them. I need to be
 [[62. Unique Paths\|62. Unique Paths]]
 [[70. Climbing Stairs\|70. Climbing Stairs]]
 [[74. Search a 2D Matrix\|74. Search a 2D Matrix]]
+[[76. Minimum Window Substring\|76. Minimum Window Substring]]
 [[91. Decode Ways\|91. Decode Ways]]
 [[121. Best Time to Buy and Sell Stock\|121. Best Time to Buy and Sell Stock]]
 [[128. Longest Consecutive Sequence\|128. Longest Consecutive Sequence]]
