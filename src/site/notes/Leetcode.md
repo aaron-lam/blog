@@ -22,6 +22,7 @@ I need to feed my family to provide good living conditions to them. I need to be
 [[121. Best Time to Buy and Sell Stock\|121. Best Time to Buy and Sell Stock]]
 [[128. Longest Consecutive Sequence\|128. Longest Consecutive Sequence]]
 [[133. Clone Graph\|133. Clone Graph]]
+[[146. LRU Cache\|146. LRU Cache]]
 [[152. Maximum Product Subarray\|152. Maximum Product Subarray]]
 [[153. Find Minimum in Rotated Sorted Array\|153. Find Minimum in Rotated Sorted Array]]
 [[162. Find Peak Element\|162. Find Peak Element]]
