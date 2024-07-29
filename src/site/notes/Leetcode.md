@@ -10,6 +10,7 @@ I need to feed my family to provide good living conditions to them. I need to be
 [[15. 3Sum\|15. 3Sum]]
 [[21. Merge Two Sorted Lists\|21. Merge Two Sorted Lists]]
 [[23. Merge k Sorted Lists\|23. Merge k Sorted Lists]]
+[[25. Reverse Nodes in k-Group\|25. Reverse Nodes in k-Group]]
 [[33. Search in Rotated Sorted Array\|33. Search in Rotated Sorted Array]]
 [[53. Maximum Subarray\|53. Maximum Subarray]]
 [[55. Jump Game\|55. Jump Game]]
