@@ -60,6 +60,7 @@ I need to feed my family to provide good living conditions to them. I need to be
 [[633. Sum of Square Numbers\|633. Sum of Square Numbers]]
 [[704. Binary Search\|704. Binary Search]]
 [[791. Custom Sort String\|791. Custom Sort String]]
+[[827. Making A Large Island\|827. Making A Large Island]]
 [[875. Koko Eating Bananas\|875. Koko Eating Bananas]]
 [[977. Squares of a Sorted Array\|977. Squares of a Sorted Array]]
 [[981. Time Based Key-Value Store\|981. Time Based Key-Value Store]]
