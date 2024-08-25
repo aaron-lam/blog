@@ -70,3 +70,4 @@ I need to feed my family to provide good living conditions to them. I need to be
 [[1216. Valid Palindrome III\|1216. Valid Palindrome III]]
 [[1768. Merge Strings Alternately\|1768. Merge Strings Alternately]]
 [[1826. Faulty Sensor\|1826. Faulty Sensor]]
+[[2667. Create Hello World Function\|2667. Create Hello World Function]]
