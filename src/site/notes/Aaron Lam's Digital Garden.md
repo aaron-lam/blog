@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-permalink":"digital-garden","permalink":"/digital-garden/","tags":["gardenEntry"]}
 ---
 
 I am Aaron Lam, a software engineer with a passion for continuous learning and personal growth. When I'm not coding, you'll find me immersed in a good book, playing piano, or cherishing moments with my family.
@@ -17,4 +17,3 @@ Whether you're a fellow coder, a lifelong learner, or simply a curious soul, I h
 [[Communication\|Communication]]
 [[Education\|Education]]
 [[Biology\|Biology]]
-
