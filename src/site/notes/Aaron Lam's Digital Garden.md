@@ -10,10 +10,12 @@ Whether you're a fellow coder, a lifelong learner, or simply a curious soul, I h
 
 [[Frontend\|Frontend]]
 [[Leetcode\|Leetcode]]
-[[Engineering Management\|Engineering Management]]
+[[Management\|Management]]
 [[Newborn Care\|Newborn Care]]
 [[Communication\|Communication]]
 [[Education\|Education]]
 [[Biology\|Biology]]
+[[Philosophy\|Philosophy]]
+[[Math\|Math]]
 
 [[Contact Me\|Contact Me]]
