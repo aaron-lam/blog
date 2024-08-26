@@ -2,10 +2,18 @@
 {"dg-publish":true,"dg-permalink":"home","permalink":"/home/","tags":["gardenEntry"]}
 ---
 
-I am Aaron Lam, a software engineer at TikTok. In my free time, I enjoy hanging out with my family, playing music instruments, reading, writing, and drawing.
+I am Aaron Lam, a software engineer with a passion for continuous learning and personal growth. When I'm not coding, you'll find me immersed in a good book, playing piano, or cherishing moments with my family.
 
-All my notes stem from my life purpose statement: "To [[Share\|Share]]  [[Love\|Love]] and [[Knowledge\|Knowledge]] for a better world" As I contemplate how to fulfill this purpose, more questions pops up from my head. How can I effectively share with others? How do I reach a larger audience? How can I be a loving person? What knowledge should I acquire? These questions drive me to create a blog that represents my knowledge base, aiming to answer them and maximize my contribution to the world before I'm gone.
+This blog serves as my digital garden — a carefully cultivated collection of insights, experiences, and knowledge I've gathered along my journey. It's designed to be a personal wiki, a hub where I can reflect on my progress and revisit the materials I've learned:
 
-I hope this blog inspires you. Enjoy!
+Whether you're a fellow coder, a lifelong learner, or simply a curious soul, I hope you'll find something here that resonates with you. Feel free to wander, explore, and perhaps discover something new.
 
 [[Contact Me\|Contact Me]]
+# Subjects
+[[Frontend\|Frontend]]
+[[Leetcode\|Leetcode]]
+[[Engineering Management\|Engineering Management]]
+[[Newborn Care\|Newborn Care]]
+[[Communication\|Communication]]
+[[Education\|Education]]
+[[Biology\|Biology]]
