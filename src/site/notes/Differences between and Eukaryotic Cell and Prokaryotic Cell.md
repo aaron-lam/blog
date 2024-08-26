@@ -22,7 +22,7 @@ For their differences, please check and [[Eukaryotic Cell\|Eukaryotic Cell]] and
 |---|---|---|
 |**Genetic information**|DNA is linear, found in nucleus|DNA is circular, found in nucleoid region|
 |**Organelles**|membrane-bound organelles|no membrane-bound organelles|
-|**Size**|larger (10-100µm)\]|smaller (1-10µm)|
+|**Size**|larger (10-100µm)|smaller (1-10µm)|
 |**Organism types**|protists, fungi, plants, animals|bacteria, archaea|
 |**Cell number**|unicellular or multicellular|always unicellular|
 
