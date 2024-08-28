@@ -7,3 +7,5 @@
 [[Conclusion\|Conclusion]]
 [[Deductive Argument\|Deductive Argument]]
 [[Abductive Argument\|Abductive Argument]]
+[[Valid Argument\|Valid Argument]]
+[[Sound Argument\|Sound Argument]]
