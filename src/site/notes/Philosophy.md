@@ -9,3 +9,4 @@
 [[Abductive Argument\|Abductive Argument]]
 [[Valid Argument\|Valid Argument]]
 [[Sound Argument\|Sound Argument]]
+[[Bayes' Theorem\|Bayes' Theorem]]
