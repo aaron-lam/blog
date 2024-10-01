@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-permalink":"digital-garden","permalink":"/digital-garden/","tags":["gardenEntry"]}
 ---
 
+
 ![IMG_0104.jpg|300](/img/user/IMG_0104.jpg)
 
 I am Aaron Lam, a software engineer with a passion for continuous learning and personal growth. When I'm not coding, you'll find me immersed in a good book, playing piano, or cherishing moments with my family.
@@ -23,5 +24,5 @@ My notes:
 [[Math\|Math]]
 
 Learn more about me:
-[[Hobbies List\|Hobbies List]]
+[[My Hobbies\|My Hobbies]]
 [[Contact Me\|Contact Me]]
