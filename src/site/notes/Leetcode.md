@@ -11,7 +11,8 @@ I need to feed my family to provide good living conditions to them. I need to be
 [[21. Merge Two Sorted Lists\|21. Merge Two Sorted Lists]]
 [[23. Merge k Sorted Lists\|23. Merge k Sorted Lists]]
 [[25. Reverse Nodes in k-Group\|25. Reverse Nodes in k-Group]]
-
+[[26. Remove Duplicates from Sorted Array\|26. Remove Duplicates from Sorted Array]]
+[[27. Remove Element\|27. Remove Element]]
 [[28. Find the Index of the First Occurrence in a String\|28. Find the Index of the First Occurrence in a String]]
 [[33. Search in Rotated Sorted Array\|33. Search in Rotated Sorted Array]]
 [[34. Find First and Last Position of Element in Sorted Array\|34. Find First and Last Position of Element in Sorted Array]]
@@ -73,7 +74,8 @@ I need to feed my family to provide good living conditions to them. I need to be
 [[633. Sum of Square Numbers\|633. Sum of Square Numbers]]
 [[704. Binary Search\|704. Binary Search]]
 [[791. Custom Sort String\|791. Custom Sort String]]
-[[827. Making A Large Island\|827. Making A Large Island]]
+[[827. Making A Large Island
+[[844. Backspace String Compare\|844. Backspace String Compare]]
 [[875. Koko Eating Bananas\|875. Koko Eating Bananas]]
 [[885. Spiral Matrix III\|885. Spiral Matrix III]]
 [[938. Range Sum of BST\|938. Range Sum of BST]]
