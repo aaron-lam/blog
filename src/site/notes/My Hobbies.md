@@ -10,6 +10,7 @@
 
 #### Tier 2 (Focused, but with room to breathe)
 * Brazilian Jiujitsu
+* Magic tricks
 
 #### Tier 3 (Maintaining skills while keeping my passion alive)
 * Oil painting
