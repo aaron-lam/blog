@@ -77,8 +77,9 @@ I need to feed my family to provide good living conditions to them. I need to be
 [[567. Permutation in String\|567. Permutation in String]]
 [[633. Sum of Square Numbers\|633. Sum of Square Numbers]]
 [[704. Binary Search\|704. Binary Search]]
+[[707. Design Linked List\|707. Design Linked List]]
 [[791. Custom Sort String\|791. Custom Sort String]]
-[[827. Making A Large Island
+[[827. Making A Large Island\|827. Making A Large Island]]
 [[844. Backspace String Compare\|844. Backspace String Compare]]
 [[875. Koko Eating Bananas\|875. Koko Eating Bananas]]
 [[885. Spiral Matrix III\|885. Spiral Matrix III]]
