@@ -22,6 +22,7 @@ My notes:
 [[Biology\|Biology]]
 [[Philosophy\|Philosophy]]
 [[Math\|Math]]
+[[Christian Theology\|Christian Theology]]
 
 Learn more about me:
 [[My Hobbies\|My Hobbies]]
