@@ -6,11 +6,11 @@
 * Piano
 * Chess
 * Leetcode
-* Meditation
 * Study Philosophy / Christian Theology
 
 #### Tier 2 (Focused, but with room to breathe)
 * Brazilian Jiujitsu
+* Meditation
 
 #### Tier 3 (Maintaining skills while keeping my passion alive)
 * Oil painting
