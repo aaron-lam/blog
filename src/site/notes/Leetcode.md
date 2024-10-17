@@ -73,6 +73,7 @@ I need to feed my family to provide good living conditions to them. I need to be
 [[367. Valid Perfect Square\|367. Valid Perfect Square]]
 [[371. Sum of Two Integers\|371. Sum of Two Integers]]
 [[377. Combination Sum IV\|377. Combination Sum IV]]
+[[383. Ransom Note\|383. Ransom Note]]
 [[408. Valid Word Abbreviation\|408. Valid Word Abbreviation]]
 [[417. Pacific Atlantic Water Flow\|417. Pacific Atlantic Water Flow]]
 [[424. Longest Repeating Character Replacement\|424. Longest Repeating Character Replacement]]
