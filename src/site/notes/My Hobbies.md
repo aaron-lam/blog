@@ -15,3 +15,4 @@
 #### Tier 3 (Maintaining skills while keeping my passion alive)
 * Oil painting
 * Magic tricks
+* Speedcubing
