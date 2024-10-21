@@ -4,7 +4,6 @@
 
 #### Tier 1 (Daily practice to fuel growth and discipline)
 * Piano
-* Chess
 * Leetcode
 * Study Philosophy / Christian Theology
 
@@ -16,3 +15,4 @@
 * Oil painting
 * Magic tricks
 * Speedcubing
+* Chess
