@@ -11,8 +11,8 @@
 * Brazilian Jiujitsu
 * Meditation
 
-#### Tier 3 (Maintaining skills while keeping my passion alive)
+#### Tier 3 (Light practice to maintain skills)
 * Oil painting
 * Magic tricks
-* Speedcubing
+* Rubik's Cube
 * Chess
