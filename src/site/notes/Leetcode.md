@@ -58,7 +58,7 @@ I need to feed my family to provide good living conditions to them. I need to be
 [[213. House Robber II\|213. House Robber II]]
 [[217. Contains Duplicate\|217. Contains Duplicate]]
 [[231. Power of Two\|231. Power of Two]]
-
+[[232. Implement Queue using Stacks\|232. Implement Queue using Stacks]]
 [[234. Palindrome Linked List\|234. Palindrome Linked List]]
 [[237. Delete Node in a Linked List\|237. Delete Node in a Linked List]]
 [[238. Product of Array Except Self\|238. Product of Array Except Self]]
