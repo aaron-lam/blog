@@ -3,22 +3,23 @@
 ---
 
 #### Tier 1 (Daily practice to fuel growth and discipline)
-* Piano (Goal: ABRSM Grade 8)
-* Reading (Mostly non-fiction related to personal growth / philosophy)
+* Piano
+* Reading
+* Machine Learning
 
 #### Tier 2 (Focused, but with room to breathe)
-* Brazilian Jiujitsu (White belt)
-* Chess (1011 ELO from chess.com)
-* Real Estate (Licensed Real Estate Broker in Washington)
+* Brazilian Jiujitsu
+* Chess
+* Real Estate
 
 #### Tier 3 (Light practice to maintain skills)
-* Oil painting (Impressionism focused)
-* Rubik's Cube (Goal: Solve under 1 min)
-* Baking (Bake good stuff with my wife)
-* Leetcode (1547 ELO)
+* Oil painting
+* Leetcode
 * Car Wash
 
 #### Tier 4 (Archived)
+* Rubik's Cube
+* Baking
 * Magic tricks
 * Yo-Yo
 * Drone
