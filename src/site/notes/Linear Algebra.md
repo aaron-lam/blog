@@ -2,4 +2,4 @@
 {"dg-publish":true,"dg-permalink":"linear-algebra","permalink":"/linear-algebra/"}
 ---
 
-TBD
+[[MIT 18.06\|MIT 18.06]]
