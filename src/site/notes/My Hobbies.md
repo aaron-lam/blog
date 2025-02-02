@@ -9,17 +9,14 @@
 
 #### Tier 2 (Focused, but with room to breathe)
 * Brazilian Jiujitsu
-* Chess
 * Real Estate
-
-#### Tier 3 (Light practice to maintain skills)
-* Oil painting
 * Leetcode
-* Car Wash
 
-#### Tier 4 (Archived)
+#### Tier 3 (Archived)
 * Rubik's Cube
 * Baking
 * Magic tricks
 * Yo-Yo
 * Drone
+* Chess
+* Oil painting
