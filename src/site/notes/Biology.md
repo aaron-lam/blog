@@ -22,5 +22,5 @@
 [[Neuron Signaling\|Neuron Signaling]]
 [[Myelin\|Myelin]]
 [[Synapse\|Synapse]]
-[[Synaptic Plasticity
+[[Synaptic Plasticity\|Synaptic Plasticity]]
 [[Brain\|Brain]]
