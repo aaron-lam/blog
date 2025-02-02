@@ -5,4 +5,3 @@
 [[Frontend\|Frontend]]
 [[Leetcode\|Leetcode]]
 [[Machine Learning\|Machine Learning]]
-[[CISSP\|CISSP]]
