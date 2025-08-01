@@ -2,42 +2,37 @@
 {"dg-publish":true,"dg-permalink":"machine-learning","permalink":"/machine-learning/"}
 ---
 
-# Supervised Machine Learning
-## Regression and Classification
-* Regression vs classification
-* Cost function
-* Gradient Descent
-## Multiple Variable Regression
-* Vectorization
-* Gradient Descent with multiple variable
-* Feature scaling
-* Learning curve
-* Feature engineering
-* Polynomial Regression
-## Logistic Regression
-* Regularization
-# Machine Learning Yearning
-## Development set and test set
-* test and development
-* single number evaluation
-## Error analysis
-* eyeball and blackbox test
-* mislabelled data
-## Bias and variance
-* Optimal error rate
-* tradeoff
-* technique to optimize
-## Learning curves
-Shows if we have high bias or high variance
-## Human level performance
-Helps to determine the benchmark
-## Train data at distribution
-The challenges, and the things to address (put some test data in training data to avoid overfit)
-## Data mismatch
-Use training dev set to debug
-Artificial data beware
-## Optimization verification
-Use the score to apply both human result and test result to debug what to improve: the score algorithm or the learning algorithm
-## End-to-end deep learning
-Tradeoffs between end-to-end deep learning and pipeline model
-How to debug on pipeline
+## Fundamentals
+
+[[Supervised vs Unsupervised Learning\|Supervised vs Unsupervised Learning]] - The basic paradigm distinction
+[[Regression vs Classification\|Regression vs Classification]] - Two main supervised learning tasks
+[[Cost Function\|Cost Function]] - How we measure model performance
+[[Gradient Descent\|Gradient Descent]] - Core optimization algorithm
+
+## Feature Engineering & Preprocessing
+
+[[Feature Engineering\|Feature Engineering]] - Creating informative features from raw data
+[[Feature Scaling\|Feature Scaling]] - Normalizing features for better learning
+[[Vectorization\|Vectorization]] - Efficient computation through matrix operations
+[[Polynomial Regression\|Polynomial Regression]] - Adding polynomial features for non-linear relationships
+
+## Model Performance & Diagnostics
+
+[[Bias vs Variance\|Bias vs Variance]] - The fundamental tradeoff in model complexity
+[[Learning Curves\|Learning Curves]] - Diagnostic tool for bias/variance problems
+[[Human Level Performance\|Human Level Performance]] - Benchmarking against human capabilities
+[[Error Analysis\|Error Analysis]] - Systematic approach to understanding failures
+
+## Data Management
+
+[[Development Set vs Test Set\|Development Set vs Test Set]] - Proper data splitting for evaluation
+[[Single Number Evaluation Metric\|Single Number Evaluation Metric]] - Clear metrics for model comparison
+[[Data Distribution Mismatch\|Data Distribution Mismatch]] - When training and deployment data differ
+
+## Regularization & Overfitting
+
+[[Regularization\|Regularization]] - Techniques to prevent overfitting
+
+## Advanced Topics
+
+[[End-to-End Deep Learning\|End-to-End Deep Learning]] - Single networks vs multi-stage pipelines
