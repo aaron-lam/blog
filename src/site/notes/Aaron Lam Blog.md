@@ -17,8 +17,9 @@ My notes:
 [[Communication\|Communication]]
 [[Science\|Science]]
 [[Education\|Education]]
-[[Christian Theology\|Christian Theology]]
+[[Theology\|Theology]]
 
 Learn more about me:
 [[My Hobbies\|My Hobbies]]
+[[Certifications and Licenses\|Certifications and Licenses]]
 [[Contact Me\|Contact Me]]
