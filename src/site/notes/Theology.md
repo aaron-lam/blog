@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"theology","permalink":"/theology/"}
+{"dg-publish":true,"dg-permalink":"chirstian-theology","permalink":"/chirstian-theology/"}
 ---
 
 [[Christian Ethics\|Christian Ethics]]
