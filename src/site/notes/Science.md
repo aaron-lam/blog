@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/science/"}
+{"dg-publish":true,"dg-permalink":"science","permalink":"/science/"}
 ---
 
 [[Biology\|Biology]]
-[[Philosophy\|Philosophy]]
-[[Math\|Math]]
+[[Computer Science\|Computer Science]]
