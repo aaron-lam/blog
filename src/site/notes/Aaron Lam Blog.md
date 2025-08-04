@@ -20,6 +20,7 @@ My notes:
 [[Education\|Education]]
 [[Philosophy\|Philosophy]]
 [[Theology\|Theology]]
+[[Psychology\|Psychology]]
 
 Learn more about me:
 [[My Hobbies\|My Hobbies]]
